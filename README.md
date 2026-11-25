@@ -13,3 +13,4 @@ El conjunto de datos Uso e impacto de la IA en estudiantes y profesionales anali
 ## Sobre los Datos
 Los datos originales, junto con una explicación de cada columna, se pueden encontrar  [aquí](https://www.kaggle.com/datasets/eishatuzzuhra/ai-usage-and-impact-on-students-and-professionals)
 El conjunto de datos incluye una sola tabla con datos que contiene información demográfica como edad, género, país, nivel educativo y profesión, junto con información sobre ingresos y tipo de usuario, distribuidos en 300 registros y 19 columnas.
+![imagen alt](Imagen/P1.PNG)
