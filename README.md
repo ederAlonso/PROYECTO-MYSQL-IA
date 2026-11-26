@@ -31,5 +31,5 @@ En este análisis, ayudo a saber el uso de la IA con responder lo siguiente:
 10. **Segmentación por Intensidad:** Categorizar a los usuarios según su nivel de uso diario de IA (por ejemplo, Bajo, Moderado y Alto) y comparar su productividad promedio y nivel de recomendación en cada categoría.
 
 ## Limpieza de Datos
-Antes de realizar el análisis, es fundamental asegurar que los datos estén limpios y listos.
+Antes de realizar el análisis, es fundamental realizar una transformacion y limpieza de datos en excel con Power Query
 
